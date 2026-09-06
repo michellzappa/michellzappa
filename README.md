@@ -47,7 +47,7 @@ Small native macOS editors and viewers. One file type each, no dependencies, bui
 
 | | |
 |---|---|
-| [stoep](https://github.com/michellzappa/stoep) | Uitwijken.nl prototype. A society-owned civic community layer for Amsterdam. |
+| [uitwijken.com](https://github.com/michellzappa/uitwijken.com) | Uitwijken prototype. A society-owned civic community layer for Amsterdam. |
 | [the-next-1000-days.com](https://github.com/michellzappa/the-next-1000-days.com) | Working notes and web prototype for The Next 1000 Days. |
 | [22](https://github.com/michellzappa/22) | 22 Paths to Self-Discovery. A web journey through the Major Arcana. |
 
