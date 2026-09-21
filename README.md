@@ -23,7 +23,16 @@ Native software for Apple platforms, small web tools, and firmware for microcont
 | [housekit](https://github.com/michellzappa/housekit) | Shared SPM package behind Tessellate, Cargo, Clip and Lift: glyphs, icon plates, settings windows, hotkeys, launch at login. |
 | [athanor](https://github.com/michellzappa/athanor) | Generative sacred geometry screen saver, with tvOS and iPhone companions. |
 | [easysubs](https://github.com/michellzappa/easysubs) | Drop a video. Get its subtitles. |
-| [est](https://github.com/michellzappa/games) | Card game about patterns. 81 cards, four traits, find the trio. |
+
+### Games
+
+Small iPhone and iPad puzzle games, free and open source, one repo: [games](https://github.com/michellzappa/games).
+
+| | |
+|---|---|
+| [EST](https://github.com/michellzappa/games/tree/main/EST) | Card game about patterns. 81 cards, four traits, find the trio. |
+| [DIG](https://github.com/michellzappa/games/tree/main/DIG) | Minesweeper by deduction. No guessing where it counts. |
+| [SEEP](https://github.com/michellzappa/games/tree/main/SEEP) | Flood puzzle. Pick a color, flood the board, beat par. |
 
 ### TinySuite
 
