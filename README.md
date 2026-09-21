@@ -18,7 +18,9 @@ Native software for Apple platforms, small web tools, and firmware for microcont
 | [cartogram](https://github.com/michellzappa/cartogram) | Map wallpapers generated from your photo locations. All on-device. |
 | [tessellate](https://github.com/michellzappa/tessellate) | Menu-bar window manager. Hotkey, command key, window moved. |
 | [cargo](https://github.com/michellzappa/cargo) | Menu-bar app that brings finished Put.io downloads home to a local SSD library for Infuse. |
-| [housekit](https://github.com/michellzappa/housekit) | Shared SPM package behind Tessellate, Cargo and their sibling menu-bar apps: glyphs, icon plates, settings windows, hotkeys, launch at login. |
+| [clip](https://github.com/michellzappa/clip) | Menu-bar clipboard history. ⇧⌘V, type to filter, ⏎ pastes. Text only. |
+| [lift](https://github.com/michellzappa/lift) | Menu-bar controller for Linak standing desks (IKEA Idasen). Hotkey, desk moves. |
+| [housekit](https://github.com/michellzappa/housekit) | Shared SPM package behind Tessellate, Cargo, Clip and Lift: glyphs, icon plates, settings windows, hotkeys, launch at login. |
 | [athanor](https://github.com/michellzappa/athanor) | Generative sacred geometry screen saver, with tvOS and iPhone companions. |
 | [easysubs](https://github.com/michellzappa/easysubs) | Drop a video. Get its subtitles. |
 | [est](https://github.com/michellzappa/games) | Card game about patterns. 81 cards, four traits, find the trio. |
