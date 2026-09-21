@@ -17,7 +17,8 @@ Native software for Apple platforms, small web tools, and firmware for microcont
 | [septena](https://github.com/michellzappa/septena) | A private, local-first life OS. One app for everything you track. [septena.app](https://www.septena.app) |
 | [cartogram](https://github.com/michellzappa/cartogram) | Map wallpapers generated from your photo locations. All on-device. |
 | [tessellate](https://github.com/michellzappa/tessellate) | Menu-bar window manager. Hotkey, command key, window moved. |
-| [housekit](https://github.com/michellzappa/housekit) | Shared SPM package behind Tessellate and its sibling menu-bar apps: glyphs, icon plates, settings windows, hotkeys, launch at login. |
+| [cargo](https://github.com/michellzappa/cargo) | Menu-bar app that brings finished Put.io downloads home to a local SSD library for Infuse. |
+| [housekit](https://github.com/michellzappa/housekit) | Shared SPM package behind Tessellate, Cargo and their sibling menu-bar apps: glyphs, icon plates, settings windows, hotkeys, launch at login. |
 | [athanor](https://github.com/michellzappa/athanor) | Generative sacred geometry screen saver, with tvOS and iPhone companions. |
 | [easysubs](https://github.com/michellzappa/easysubs) | Drop a video. Get its subtitles. |
 | [est](https://github.com/michellzappa/games) | Card game about patterns. 81 cards, four traits, find the trio. |
