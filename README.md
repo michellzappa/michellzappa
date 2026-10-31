@@ -1,6 +1,20 @@
 ## Michell Zappa
 
-Native software for Apple platforms, small web tools, and firmware for microcontrollers. Most of it is local-first, and most of it is here.
+I'm building [Bipe](https://bipe.chat), a messenger for Brazil. The rest of my code is native software for Apple platforms, small web tools, and firmware for microcontrollers. Most of it is local-first, and most of it is here.
+
+### Bipe
+
+[Bipe](https://bipe.chat) is a Brazilian messenger. Your data stays on servers in Brazil. It is free, has no ads and warns you about scams. It runs on [Matrix](https://matrix.org/), and the code is open source (AGPL-3.0) in [bipe-chat](https://github.com/bipe-chat).
+
+| | |
+|---|---|
+| [bipe-app](https://github.com/bipe-chat/bipe-app) | Bipe for iPhone and Android, on matrix-rust-sdk. |
+| [bipe-shared](https://github.com/bipe-chat/bipe-shared) | Rules, texts, API contract and test vectors that the app, the API and the site share. |
+| [bipe-api](https://github.com/bipe-chat/bipe-api) | Sign-up, invites and the @ directory. |
+| [bipe-web](https://github.com/bipe-chat/bipe-web) | The site, [bipe.chat](https://bipe.chat). |
+| [bipe-business](https://github.com/bipe-chat/bipe-business) | Business bridge and inbox. One inbox for Bipe and WhatsApp, run by the company. |
+| [bipe-beeper](https://github.com/bipe-chat/bipe-beeper) | Bipe chats in Beeper, through a bridge you run yourself. |
+| [bipe-ml](https://github.com/bipe-chat/bipe-ml) | On-device models. The pt-BR scam classifier. |
 
 ### AI and developer tooling
 
