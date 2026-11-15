@@ -29,7 +29,9 @@ I'm building [Bipe](https://bipe.chat), a messenger for Brazil. The rest of my c
 | | |
 |---|---|
 | [septena](https://github.com/michellzappa/septena) | A private, local-first life OS. One app for everything you track. [septena.app](https://www.septena.app) |
+| [sift](https://github.com/michellzappa/sift) | Everything you saved for later (tabs, Reading List, Instagram, X, YouTube) as a knowledge base on your Mac. Your own Claude finds the themes. |
 | [cartogram](https://github.com/michellzappa/cartogram) | Map wallpapers generated from your photo locations. All on-device. |
+| [hearingcheck](https://github.com/michellzappa/hearingcheck) | Hearing self-check for iPhone and headphones. Each ear on its own, low to high frequencies, and a spatial audio test of where sounds come from. |
 | [tessellate](https://github.com/michellzappa/tessellate) | Menu-bar window manager. Hotkey, command key, window moved. |
 | [cargo](https://github.com/michellzappa/cargo) | Menu-bar app that brings finished Put.io downloads home to a local SSD library for Infuse. |
 | [clip](https://github.com/michellzappa/clip) | Menu-bar clipboard history. ⇧⌘V, type to filter, ⏎ pastes. Text only. |
