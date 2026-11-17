@@ -71,6 +71,7 @@ Small native macOS editors and viewers. One file type each, no dependencies, bui
 | | |
 |---|---|
 | [tinyarcana](https://github.com/michellzappa/tinyarcana) | A tarot deck that fits on a microcontroller. ESP32-S3 with a round AMOLED display. |
+| [tinytram](https://github.com/michellzappa/tinytram) | Live tram and metro departures for one Dutch stop, on a round AMOLED map with each tram where it is. ESP32-S3. |
 
 ### Web
 
